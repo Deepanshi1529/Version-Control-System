@@ -1,5 +1,7 @@
 ## Git and Github - Version Control System
 Version Contol System also known as software tools are used to track the changes in the source code.
+Main goal of using version control system:
+
 + To maintain the history of project
 + To contribute to open source
 # Git
