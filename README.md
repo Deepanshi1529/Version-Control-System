@@ -113,7 +113,7 @@ but, if u don't want to go through all these steps then simply, change the <code
 ## Working on Existing Project (Contribution to open-source)
 There are a lot of open-source projects in which developers from all around the world contribute to the source codes but there is a catch in that, other developers directly cannot make changes to someones repositories instead, there is a concept of <code>fork</code> which is being used.
 <br><br>
-Concept of fork is defined as making a copy of the project in your own repository it basically means downloading all the folder,files or any thing in that targeted repository in your own computer. Whatever changes which are being done in the forked repository will not be visible in the targeted project. In order to do that we further have a concept of pull request and merging.
+Concept of fork is defined as making a copy of the project in your own repository, it basically means downloading all the folder,files or anything present in that targeted repository to your own computer. Whatever changes which are being done in the forked repository will not be visible in the targeted project. In order to do that we further have a concept of pull request and merging.
 <br>
 Steps invloved for creating a fork:
 + Create a folder in desktop or any other location
@@ -144,7 +144,7 @@ Now, push the changes (changes has been pushed into the hello branch)
 ```
 git push origin hello
 ```
-After this, the main contributors will review the pull requests, and may suggest some changes and then they will these changes into their main project.
+After this, the main contributors will review the pull requests, and may suggest some changes and then they will merge these changes into their main project.
 Finally, u have contibuted to open-source!!!
 
 
